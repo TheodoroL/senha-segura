@@ -1,6 +1,6 @@
 # Senha seguras 🔏
 
-Objetivo dessa api é verificar se a senha do usuário é segura 
+Objetivo dessa api é verificar se a senha do usuário é segura ou não
 
 ## Requisitos dessa api: 
 - Verificar se a senha possui pelo menos 08 caracteres.
@@ -16,7 +16,7 @@ Objetivo dessa api é verificar se a senha do usuário é segura
 
 ## Como Utilizar?
 
-1. primeiramente clona o repositório com git clone 
+1. primeiramente clona o repositório com git clone https://github.com/TheodoroL/senha-segura.git
 2. após clonar o repositório, de apenas npm install para instalar as dependencia que é necessária para o uso da api 
 3. para questão desenovlvimento, usa o comando npm run dev 
 4. para colocar em produção, basta usar o comando npm build.
